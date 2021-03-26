@@ -1,0 +1,19 @@
+p{
+    /*color: violet;*/
+}
+
+ul{
+    /*background-color: darkblue;*/
+}
+
+ol{
+    /*background-color: brown;*/
+}
+div{
+    background-color: goldenrod;
+    box-shadow: darkred;
+}
+
+#a{
+    background-color:blue;
+}
